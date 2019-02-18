@@ -1,6 +1,6 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie aplikacji"
 
-[25.02.2019] *Systemy kontroli wersji i bazujące na nich serwisy internetowe* []
+[25.02.2019] *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [JD, TB]
 
 [4.03.2019] *Narzędzia do modelowania (głównie UML) i prototypowania* []
 
