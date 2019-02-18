@@ -8,9 +8,9 @@
 
 [] *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
-[] *Narzędzia do zarządzania projektami i bug trackingu*
+[] *Narzędzia do zarządzania projektami i bug trackingu* [PC]
 
-[] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [PC]
+[] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker*
 
