@@ -10,7 +10,7 @@
 
 [] *Narzędzia do zarządzania projektami i bug trackingu* [PC]
 
-[] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
+[] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [ŁP]
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker*
 
