@@ -12,7 +12,7 @@
 
 [] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
 
-[] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker*
+[] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker (BK)*
 
 [] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
 
