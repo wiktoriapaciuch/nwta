@@ -14,7 +14,7 @@
 
 [] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker (BK)*
 
-[] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
+[] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter* [ML]
 
 [] *Systemy CI*
 
