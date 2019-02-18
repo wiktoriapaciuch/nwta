@@ -12,7 +12,7 @@
 
 [] *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [ŁP]
 
-[] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker (BK)*
+[] *Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker [BK]*
 
 [] *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter* [ML]
 
@@ -20,7 +20,7 @@
 
 [] *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
-[] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*
+[] *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD) [MT]
 
 [] *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*
 
